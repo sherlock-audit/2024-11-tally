@@ -1,4 +1,4 @@
-# [project name] collaborative audit details
+# Tally ARB Staker collaborative audit details
 
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page (label issues as `Medium`, `High`, `Low/Info` or `General Health`)
