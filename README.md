@@ -72,6 +72,8 @@ ___
 
 ### Q: Please provide links to previous audits (if any).
 https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf
+
+Issues from this UniStaker are considered known and OOS, so they won't be validated https://github.com/code-423n4/2024-02-uniswap-foundation-findings/issues
 ___
 
 ### Q: Please list any relevant protocol resources.
