@@ -13,9 +13,7 @@ ___
 ### Q: If you are integrating tokens, are you allowing only whitelisted tokens to work with the codebase or any complying with the standard? Are they assumed to have certain properties, e.g. be non-reentrant? Are there any types of [weird tokens](https://github.com/d-xo/weird-erc20) you want to integrate?
 Staker has uses tokens in two ways: staked tokens and reward tokens.
 
-The staked token is assumed to be an ERC20Votes token, which implements the ERC5805 standard. Rebasing or fee on transfer is not supported for the staked token.
-
-The reward token is assumed to be a regular ERC20 token. Rebasing or fee on transfer is not supported for the reward token.
+Both staked and reward tokens will be ARB
 ___
 
 ### Q: Are there any limitations on values set by admins (or other roles) in the codebase, including restrictions on array lengths?
